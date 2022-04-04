@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/viswakirankathi/react.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/viswakirankathi/react.github.io/static/js/main.1e18de86.js",
+    "static/js/787.ac7b8877.chunk.js": "/viswakirankathi/react.github.io/static/js/787.ac7b8877.chunk.js",
+    "static/media/logo.svg": "/viswakirankathi/react.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/viswakirankathi/react.github.io/index.html",
+    "main.073c9b0a.css.map": "/viswakirankathi/react.github.io/static/css/main.073c9b0a.css.map",
+    "main.1e18de86.js.map": "/viswakirankathi/react.github.io/static/js/main.1e18de86.js.map",
+    "787.ac7b8877.chunk.js.map": "/viswakirankathi/react.github.io/static/js/787.ac7b8877.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1e18de86.js"
+  ]
+}
