@@ -1,3 +1,17 @@
-.Header{
-  text-align: center;
+.header{
+  display: flex;
+  height: 50px;
+}
+.logo{
+  width:55%;
+}
+.nav-menu{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  
+}
+.nav-menu>div{
+  padding:10px 15px;
+  
 }
