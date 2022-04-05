@@ -15,3 +15,11 @@
   padding:10px 15px;
   
 }
+.nav-menu>div:hover{
+  cursor: pointer;
+  
+}
+.col-centered{
+  float: none;
+  margin: 0 auto;
+}
