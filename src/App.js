@@ -9,10 +9,10 @@ function App() {
   return (
     <Router>
       <div className='Header'></div>
-      <Link to="/menu"><Home/></Link>
+      <Link to="/react.github.io/menu"><Home/></Link>
       <Link to="/home">Home</Link>
      <Switch>
-       <Route path='/menu'>
+       <Route path='/react.github.io/menu'>
          <Header/>
        </Route>
        <Route path='/home'>
