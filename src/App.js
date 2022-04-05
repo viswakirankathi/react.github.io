@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Header from './Components/Header';
 import Home from './Components/Home.js';
 import About from './Components/About';
-import {Route, BrowserRouter as Router,Switch ,Link} from 'react-router-dom';
+import {Route, HashRouter as Router,Switch ,Link} from 'react-router-dom';
 function App() {
   return (
     <Router>
